@@ -8,7 +8,7 @@ import Colleges from "./pages/Colleges";
 import CollegeDetails from "./pages/CollegeDetails";
 import CollegesByType from "./pages/CollegesByType";
 import Dashboard from "./pages/Dashboard";
-import Admin from "./pages/Admin";
+import Admin from "./pages/admin";
 import NotFound from "./pages/NotFound";
 import Auth from "./pages/Auth";
 import { ProtectedRoute } from "@/components/ProtectedRoute";
